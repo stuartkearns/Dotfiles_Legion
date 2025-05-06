@@ -1,5 +1,5 @@
 
-# This is my Qtile configuration file. There are many like it, but this one is mine.
+# This is my Legion Qtile configuration file. There are many like it, but this one is Legion's.
  
 #import os
 #import subprocess
@@ -133,6 +133,8 @@ extension_defaults = widget_defaults.copy()
 screens = [
 
     Screen(
+        wallpaper='~/Wallpaper/WP006.jpg',
+        wallpaper_mode='fill',
 
         bottom=bar.Bar(
 
