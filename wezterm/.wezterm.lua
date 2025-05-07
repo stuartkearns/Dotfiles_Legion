@@ -14,7 +14,8 @@ config.color_scheme = 'Argonaut'
 -- Set Font
 config.font = wezterm.font 'JetBrains Mono'
 
-
+-- Set background image
+--config.window_background_image = '~/Wallpaper/WP008.png'
 
 -- Toggle Full Screen
 config.keys = {
