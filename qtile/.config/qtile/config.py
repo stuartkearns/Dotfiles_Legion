@@ -133,7 +133,7 @@ extension_defaults = widget_defaults.copy()
 screens = [
 
     Screen(
-        wallpaper='~/Wallpaper/WP006.jpg',
+        wallpaper='~/Wallpaper/WP008.png',
         wallpaper_mode='fill',
 
         bottom=bar.Bar(
